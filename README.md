@@ -13,8 +13,8 @@ The DMS provides all necessary documentation and guidance to ensure that adjudic
 
 - Seamless navigation of the **Visa Adjudication System (VAS)**
 - Clear steps to **review and verify applicant information**
-- Guidance to make **informed decisions** on visa approvals or rejections
-- Assurance of **compliance with regulations** and internal protocols
+- Guidance to make **informed decisions** on visa approvals or rejections.
+- Assurance of **compliance with regulations** and internal protocols.
 
 ## ✅ Outcome
 
